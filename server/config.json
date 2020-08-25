@@ -1,0 +1,7 @@
+{
+    "MONGO_DB": {
+        "MONGO_DB_URL": "",
+        "DATABASE_NAME": "",
+        "COLLECTION_NAME": ""
+    }
+}
